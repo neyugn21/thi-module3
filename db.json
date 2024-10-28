@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": "PROD-0001",
+      "name": "Paracetamol",
+      "description": "Thuốc giảm đau, hạ sốt",
+      "categoryId": 1,
+      "price": 5000,
+      "quantity": 200,
+      "importDate": "10/01/2024"
+    },
+    {
+      "id": "PROD-0002",
+      "name": "Amoxicillin",
+      "description": "Kháng sinh phổ rộng, dùng trong điều trị nhiễm trùng",
+      "categoryId": 2,
+      "price": 15000,
+      "quantity": 150,
+      "importDate": "15/01/2024"
+    },
+    {
+      "id": "PROD-0003",
+      "name": "Ibuprofen",
+      "description": "Thuốc giảm đau, chống viêm",
+      "categoryId": 1,
+      "price": 8000,
+      "quantity": 180,
+      "importDate": "20/01/2024"
+    },
+    {
+      "id": "PROD-0004",
+      "name": "Cetirizine",
+      "description": "Thuốc chống dị ứng, giảm triệu chứng ngứa mũi",
+      "categoryId": 3,
+      "price": 12000,
+      "quantity": 100,
+      "importDate": "25/01/2024"
+    },
+    {
+      "id": "PROD-0005",
+      "name": "Omeprazole",
+      "description": "Thuốc điều trị trào ngược dạ dày thực quản",
+      "categoryId": 4,
+      "price": 20000,
+      "quantity": 75,
+      "importDate": "30/01/2024"
+    },
+    {
+      "id": "PROD-0006",
+      "name": "Metformin",
+      "description": "Thuốc điều trị tiểu đường loại 2",
+      "categoryId": 5,
+      "price": 30000,
+      "quantity": 60,
+      "importDate": "05/02/2024"
+    },
+    {
+      "id": "PROD-0007",
+      "name": "Fexofenadine",
+      "description": "Thuốc chống dị ứng, giảm triệu chứng viêm mũi",
+      "categoryId": 3,
+      "price": 15000,
+      "quantity": 120,
+      "importDate": "10/02/2024"
+    },
+    {
+      "id": "PROD-0008",
+      "name": "Ciprofloxacin",
+      "description": "Kháng sinh dùng trong điều trị nhiễm trùng đường tiết niệu",
+      "categoryId": 2,
+      "price": 25000,
+      "quantity": 90,
+      "importDate": "15/02/2024"
+    },
+    {
+      "id": "PROD-4444",
+      "name": "Apple 1",
+      "categoryId": "2",
+      "price": "3000",
+      "quantity": "13",
+      "importDate": "2024-12-24",
+      "description": "12"
+    },
+    {
+      "id": "PROD-0111",
+      "name": "Sách 2",
+      "categoryId": "5",
+      "price": "3000",
+      "quantity": "13",
+      "importDate": "2024-10-28",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD "
+    },
+    {
+      "id": "PROD-5222",
+      "name": "Thuốc đi ị",
+      "categoryId": "4",
+      "price": "1500",
+      "quantity": "13",
+      "importDate": "2024-02-15",
+      "description": "Bánh mỳ papaKen"
+    },
+    {
+      "id": "PROD-1111",
+      "name": "Sách 1",
+      "categoryId": "2",
+      "price": "3000",
+      "quantity": "13",
+      "importDate": "2024-02-16",
+      "description": "Bánh mỳ papaKen"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Thuốc giảm đau",
+      "description": "Các loại thuốc giúp giảm đau và hạ sốt"
+    },
+    {
+      "id": 2,
+      "name": "Kháng sinh",
+      "description": "Các loại thuốc dùng để điều trị nhiễm trùng"
+    },
+    {
+      "id": 3,
+      "name": "Thuốc chống dị ứng",
+      "description": "Các loại thuốc giúp giảm triệu chứng dị ứng"
+    },
+    {
+      "id": 4,
+      "name": "Thuốc tiêu hóa",
+      "description": "Các loại thuốc hỗ trợ tiêu hóa"
+    },
+    {
+      "id": 5,
+      "name": "Thuốc điều trị tiểu đường",
+      "description": "Các loại thuốc dùng để kiểm soát tiểu đường"
+    },
+    {
+      "id": 6,
+      "name": "Thuốc kháng viêm",
+      "description": "Các loại thuốc giúp giảm viêm"
+    }
+  ]
+}
